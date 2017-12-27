@@ -36,7 +36,7 @@ h1.heading {
 #p1{
   width: 100px;
   height: 50px;
-  background-color: #fa8072;
+  background-color: #f08080;
   float:right;
   text-align: center;
   border: 1px solid black;
@@ -49,7 +49,7 @@ h1.heading {
 #p2{
   width: 100px;
   height: 50px;
-  background-color: #8fbc8f;
+  background-color: #ff0000;
   float:right;
   margin-right: auto;
   text-align: center;
@@ -57,12 +57,13 @@ h1.heading {
   padding: 0px;
   position: relative;
   font-size: 125%;
+  color: white;
 }
 
 #p3{
   width: 100px;
   height: 50px;
-  background-color: #9acd32;
+  background-color: #ffe4b5;
   float:right;
   margin-right: auto;
   text-align: center;
